@@ -56,7 +56,7 @@
 
 ### 2. 安装脚本
 
-[![Install](https://img.shields.io/badge/%E2%9E%9C%20Install-Greasy%20Fork-d33?style=for-the-badge)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
+<a href="https://greasyfork.org/scripts/578808-xhs-favorites-walker" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%9E%9C%20Install-Greasy%20Fork-d33?style=for-the-badge" alt="Install on Greasy Fork"></a>
 
 ### 3. 开始用
 
