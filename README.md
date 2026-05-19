@@ -2,7 +2,6 @@
 
 > 把你那堆 **「等下再看」变成「一个一个过」** 的 Tampermonkey 油猴脚本。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-supported-brightgreen)](https://www.tampermonkey.net/)
 [![Violentmonkey](https://img.shields.io/badge/Violentmonkey-supported-brightgreen)](https://violentmonkey.github.io/)
 
@@ -57,15 +56,7 @@
 
 ### 2. 安装脚本
 
-装好 Tampermonkey / Violentmonkey 之后, **点下面这个按钮**, 跳到 Greasy Fork 页面 → 点绿色 Install 按钮 → 浏览器扩展自动弹出安装窗口。
-
 [![Install](https://img.shields.io/badge/%E2%9E%9C%20Install-Greasy%20Fork-d33?style=for-the-badge)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
-[![Installs](https://img.shields.io/greasyfork/dt/578808?label=Installs&color=brightgreen)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
-[![Version](https://img.shields.io/greasyfork/v/578808?label=Version)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
-
-(为什么走 Greasy Fork: 可以看到安装数、评论、其他用户反馈; Greasy Fork 也会自动从 GitHub 同步, 永远是最新版。)
-
-如果不方便走 Greasy Fork, 直接装 GitHub 原始版也行: [xhs-favorites-walker.user.js](https://raw.githubusercontent.com/wickes1/xhs-favorites-walker/main/xhs-favorites-walker.user.js)
 
 ### 3. 开始用
 
@@ -149,8 +140,3 @@
 - ❌ 不上传收藏数据到任何地方
 - ✅ 所有数据只在 `localStorage`, 你关掉浏览器、清掉站点数据就没了
 
----
-
-## License
-
-[MIT](LICENSE) — 随便用, 无任何担保。

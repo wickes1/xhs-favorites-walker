@@ -2,7 +2,6 @@
 
 > A Tampermonkey user script that turns your **Xiaohongshu (小红书) saved-posts pile** into a **one-by-one walkthrough workflow**.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-supported-brightgreen)](https://www.tampermonkey.net/)
 [![Violentmonkey](https://img.shields.io/badge/Violentmonkey-supported-brightgreen)](https://violentmonkey.github.io/)
 
@@ -57,15 +56,7 @@ Pick one (either works):
 
 ### 2. Install the script
 
-Once Tampermonkey/Violentmonkey is installed, **click the button below** to open the Greasy Fork page → click the green Install button → the extension shows the install dialog.
-
 [![Install](https://img.shields.io/badge/%E2%9E%9C%20Install-Greasy%20Fork-d33?style=for-the-badge)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
-[![Installs](https://img.shields.io/greasyfork/dt/578808?label=Installs&color=brightgreen)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
-[![Version](https://img.shields.io/greasyfork/v/578808?label=Version)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
-
-(Why Greasy Fork: install counts, reviews, and other user feedback are visible there; Greasy Fork also auto-syncs from this GitHub repo so the listing is always current.)
-
-Prefer installing direct from GitHub? You can: [xhs-favorites-walker.user.js](https://raw.githubusercontent.com/wickes1/xhs-favorites-walker/main/xhs-favorites-walker.user.js)
 
 ### 3. Use it
 
@@ -151,8 +142,3 @@ A few non-obvious choices, written down here so anyone forking knows what they'r
 - ❌ **Nothing is uploaded** — your favorites data never leaves your browser
 - ✅ **Everything in `localStorage`** — close the browser and clear site data, it's all gone
 
----
-
-## License
-
-[MIT](LICENSE) — do whatever, no warranty.
