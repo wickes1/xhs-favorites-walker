@@ -57,13 +57,15 @@
 
 ### 2. 安装脚本
 
-装好 Tampermonkey / Violentmonkey 之后, **点下面这个按钮**, 浏览器扩展会自动弹出安装窗口 — 不用复制粘贴。
+装好 Tampermonkey / Violentmonkey 之后, **点下面这个按钮**, 跳到 Greasy Fork 页面 → 点绿色 Install 按钮 → 浏览器扩展自动弹出安装窗口。
 
-[![Install](https://img.shields.io/badge/%E2%9E%9C%20Install-Tampermonkey-blue?style=for-the-badge)](https://raw.githubusercontent.com/wickes1/xhs-favorites-walker/main/xhs-favorites-walker.user.js)
+[![Install](https://img.shields.io/badge/%E2%9E%9C%20Install-Greasy%20Fork-d33?style=for-the-badge)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
+[![Installs](https://img.shields.io/greasyfork/dt/578808?label=Installs&color=brightgreen)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
+[![Version](https://img.shields.io/greasyfork/v/578808?label=Version)](https://greasyfork.org/scripts/578808-xhs-favorites-walker)
 
-(原理: 链接末尾是 `.user.js`, Tampermonkey/Violentmonkey 会拦截这种 URL, 直接显示安装确认页。)
+(为什么走 Greasy Fork: 可以看到安装数、评论、其他用户反馈; Greasy Fork 也会自动从 GitHub 同步, 永远是最新版。)
 
-如果按钮不工作, 也可以手动复制 [`xhs-favorites-walker.user.js`](xhs-favorites-walker.user.js) 的内容, 粘贴到 Tampermonkey 新建脚本窗口。
+如果不方便走 Greasy Fork, 直接装 GitHub 原始版也行: [xhs-favorites-walker.user.js](https://raw.githubusercontent.com/wickes1/xhs-favorites-walker/main/xhs-favorites-walker.user.js)
 
 ### 3. 开始用
 
